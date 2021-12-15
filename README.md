@@ -1,3 +1,3 @@
 # hello-world
-Min første repository
-Jeg har tilføjet endnu en sætning
+Min repository
+her vil opgaven (alle html og css dokumenter) blive uploadet
